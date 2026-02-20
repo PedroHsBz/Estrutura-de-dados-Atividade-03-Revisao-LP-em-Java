@@ -57,10 +57,12 @@ O projeto inclui:
 
 ```text
 ├── src/
-│ ├── Ex1.java
-│ └── Ex2.java
-├── .gitignore
+│ ├── q1.java
+│ └── q2.java
+| └── ...
+├── Atidade3_EstruturaDeDados.iml
 └── README.md
+
 ```
 ## 🛠️ Pré-requisitos
 
@@ -70,5 +72,18 @@ Antes de compilar/rodar, você precisa ter:
 - Uma IDE ou editor de código (IntelliJ)
 
 ## 💻 Executar o exercício
-- java -cp src Ex1
+- q1.java
+- q2.java
+- q3.java
+- q4.java
+- q5.java
+
+
+
+
+
+
+
+
+
 - java -cp src Ex2
