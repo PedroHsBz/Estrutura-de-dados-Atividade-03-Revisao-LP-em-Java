@@ -4,8 +4,6 @@
 Este repositório contém a **Atividade 3 de exercícios da disciplina de Estrutura de Dados**, desenvolvida em **Java**.  
 O projeto dá continuidade ao estudo da linguagem Java e da lógica de programação, com foco no uso de **estruturas de repetição, condicionais e vetores (arrays)**.
 
-Cada exercício está implementado em uma **classe Java independente**, localizada no diretório `src`.
-
 ---
 
 ## 📚 Exercícios
@@ -78,12 +76,3 @@ Antes de compilar/rodar, você precisa ter:
 - q4.java
 - q5.java
 
-
-
-
-
-
-
-
-
-- java -cp src Ex2
